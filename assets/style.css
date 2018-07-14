@@ -1,0 +1,127 @@
+#background {
+  position: relative;
+  width: 100%;
+}
+
+h1 {
+  color: white;
+  background-color:rgb(245, 213, 69);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 250px;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  left: 20px;
+  font-family: 'Anton', sans-serif;
+  border-style: solid;
+  border-color: black;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 40px;
+  background-color:rgb(255, 255, 173);
+  color: rgb(226, 28, 28);
+  font-weight: bold;
+  width: 400px;
+  position: absolute;
+  top: 160px;
+  left: 20px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  font-size: 18px;
+}
+
+#computerTotal {
+  height: 120px;
+  position: absolute;
+  left: 20px;
+  top: 540px;
+  background-color:rgb(205, 255, 205);
+  border-color: black;
+  border-style: solid;
+  width: 262px;
+
+}
+
+#counter{
+  height: 120px;
+  padding-right: 60px;
+  float: left;
+  position: absolute;
+  left: 300px;
+  top: 540px;
+  background-color:rgb(205, 255, 205);
+  border-color: black;
+  border-style: solid;
+  text-align: left;
+  font-family: 'Anton', sans-serif;
+  
+}
+
+#advil {
+  position: absolute;
+  left: 20px;
+  top: 685px;
+  border-color: black;
+  border-style: solid;
+  background-color:white;
+}
+
+#gum {
+  float: left;
+  position: absolute;
+  left: 160px;
+  top: 685px;
+  border-style: solid;
+  border-color:black;
+  background-color: white;
+}
+
+#papertowels {
+  float: left;
+  position: absolute;
+  left: 300px;
+  top: 685px;
+  border-style: solid;
+  border-color:black;
+  background-color: white;
+}
+
+#snickers {
+  float: left;
+  position: absolute;
+  left: 440px;
+  top: 685px;
+  border-style: solid;
+  border-color:black;
+  background-color: white;
+}
+
+#totalscore {
+  position: absolute;
+  left: 20px;
+  bottom: 109px;
+  background-color:rgb(205, 255, 205);
+  border-color: black;
+  border-style: solid;
+  width: 310px;
+  padding: 10px;
+  font-family: 'Anton', sans-serif;
+  
+}
+
+#score {
+  position: absolute;
+  left: 20px;
+  bottom: 15px;
+  background-color: rgb(205, 255, 205);
+  border-color: black;
+  border-style: solid;
+  width: 200px;
+  height: 80px;
+}
+
